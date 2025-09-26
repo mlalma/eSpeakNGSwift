@@ -14,7 +14,7 @@ Add eSpeakNGSwift to your Swift Package Manager dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/mlalma/eSpeakNGSwift", from: "1.0.0")
+    .package(url: "https://github.com/mlalma/eSpeakNGSwift", from: "1.0.1")
 ]
 ```
 
